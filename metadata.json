@@ -1,0 +1,6 @@
+{
+  "name": "AIORA",
+  "description": "Outcome-led Voice, Vision, and operations systems for real business workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
